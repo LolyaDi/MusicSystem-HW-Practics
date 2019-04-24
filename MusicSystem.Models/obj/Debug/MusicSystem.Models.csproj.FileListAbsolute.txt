@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\bin\Debug\MusicSystem.Models.dll
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\bin\Debug\MusicSystem.Models.pdb
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.dll
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.pdb
+C:\Users\ww\source\repos\MusicSystem\MusicSystem.Models\obj\Debug\MusicSystem.Models.csprojAssemblyReference.cache
